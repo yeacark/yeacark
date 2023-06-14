@@ -10,4 +10,4 @@
 
 **Website:** [yeacark.github.com](https://yeacark.github.com)
 
-![GIF]([https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif])
+![GIF](https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif)
