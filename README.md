@@ -6,8 +6,8 @@
 
 **Skills:** Poco python
 
-**Contact:** Discord: yeacark // yeacark.github.io/discord
+**Contact:** Discord: yeacark // [yeacark.github.io/discord](yeacark.github.io/discord)
 
-**Website:** [yeacark.github.com](https://yeacark.github.com)
+**Website:** [yeacark.github.io](https://yeacark.github.io)
 
 <img src="https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif" alt="Hacker GIF" align="right" height="200">
