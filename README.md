@@ -6,7 +6,7 @@
 
 **Skills:** Poco python
 
-**Contact:** [Email](mailto:fedixino@gmail.com)
+**Contact:** Discord: yeacark // yeacark.github.io/discord
 
 **Website:** [yeacark.github.com](https://yeacark.github.com)
 
