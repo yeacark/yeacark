@@ -6,7 +6,7 @@
 
 **Skills:** Poco python
 
-**Contact:** Discord: yeacark // [yeacark.github.io/discord](yeacark.github.io/discord)
+**Contact:** Discord: yeacark // [Server Discord](yeacark.github.io/discord)
 
 **Website:** [yeacark.github.io](https://yeacark.github.io)
 
